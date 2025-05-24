@@ -25,12 +25,14 @@ body {
     border-radius: 50px;
     font-size: larger;
     border-color: rgb(12, 12, 41);
+    background-color: palevioletred;
 
 }
 
 .control:hover {
 
     color: white;
+
 }
 
 .btn {
