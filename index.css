@@ -11,6 +11,14 @@ body {
     color: rgb(0, 0, 0);
 }
 
+.navbar-brand:hover {
+    background-color: black;
+    color: wheat;
+    font-style: italic;
+    padding: 20px;
+    border-radius: 20px;
+}
+
 
 
 .navbar {
@@ -31,12 +39,16 @@ body {
 
 .control:hover {
 
-    color: white;
+    color: rgb(0, 0, 0);
+    background-color: palegreen;
+    font-family: cursive;
+
 
 }
 
 .btn {
     height: 50px;
+
     width: 120px;
     background-color: rgb(255, 98, 0);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -51,7 +63,8 @@ body {
 
 .form-control {
     color: rgb(0, 0, 0);
-    height: px;
+    height: 20 px;
+    width: 450px;
     text-align: center;
     background-color: rgb(0, 255, 230);
     padding: 20px;
