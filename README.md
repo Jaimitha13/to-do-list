@@ -7,14 +7,13 @@
  # 📌Project Headline - 💻To-Do-List-App
 ---
  #  📖Project Overview 
-- A responsive website formulated by usinga technical skills like a HTML, CSS and Javascript. This project demonstrate the adding and delete of the task in the input. It is
-  beneficial for us to remember the daily life activity, goals, and schedule.
+- This is a responsive web-based To-Do List application built using HTML, CSS, JavaScript, and Bootstrap. The app allows users to add and delete tasks, helping them manage their daily activities, goals, and schedules effectively.
 ---
  # ✨Spotlight of the Project
   - Responsive website usefull in desktop and mobile phones.
-  - User-friendly
+  - Simple and User-friendly interface
   - Clear and accurate
-  - Keep eye on the habits daily ✅
+  - Better for tracking a daily habits ✅
 
     ---
  # 🛠️Built With
@@ -26,7 +25,7 @@
   ---
 
   ## 🚀Live Demo Session
-  -Click Here to Check the Live Project [My Project Live Site] []
+  - Click Here to Check the Live Project [My Project Live Site] [https://jaimitha13.github.io/to-do-list/]
   
 
 
