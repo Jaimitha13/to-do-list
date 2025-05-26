@@ -3,6 +3,8 @@
 - index.html
 - index.css
 - index.js
+- Readme.md/
+- image
 ---
  # 📌Project Headline - 💻To-Do-List-App
 ---
@@ -10,7 +12,7 @@
 - This is a responsive web-based To-Do List application built using HTML, CSS, JavaScript, and Bootstrap. The app allows users to add and delete tasks, helping them manage their daily activities, goals, and schedules effectively.
 ---
 
-## 📸 Screenshot
+# 📸 Screenshot
 ![image alt](https://github.com/Jaimitha13/to-do-list/blob/f5399c4fb085b76900bfbb6ae92d434429740f33/Screenshot%202025-05-26%20103831.png)
 
  # ✨Spotlight of the Project
