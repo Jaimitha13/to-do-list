@@ -11,6 +11,7 @@
 ---
 
 ## 📸 Screenshot
+![image alt](https://github.com/Jaimitha13/to-do-list/blob/f5399c4fb085b76900bfbb6ae92d434429740f33/Screenshot%202025-05-26%20103831.png)
 
  # ✨Spotlight of the Project
   - Responsive website usefull in desktop and mobile phones.
