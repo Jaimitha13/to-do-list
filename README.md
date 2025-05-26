@@ -9,6 +9,9 @@
  #  📖Project Overview 
 - This is a responsive web-based To-Do List application built using HTML, CSS, JavaScript, and Bootstrap. The app allows users to add and delete tasks, helping them manage their daily activities, goals, and schedules effectively.
 ---
+
+## 📸 Screenshot
+
  # ✨Spotlight of the Project
   - Responsive website usefull in desktop and mobile phones.
   - Simple and User-friendly interface
