@@ -1,10 +1,11 @@
 # 📁 Project Location
 - to-do-list/
-- index.html
+- to-do-list /
+- readme.md/
+- screenshot
 - index.css
+- index.html
 - index.js
-- Readme.md/
-- image
 ---
  # 📌Project Headline - 💻To-Do-List-App
 ---
